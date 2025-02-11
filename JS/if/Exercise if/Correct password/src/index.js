@@ -18,7 +18,7 @@ function createPasswordChecker() {
     }
     failedAttempts++;
 
-    if (failedAttempts >=3) {
+    if (failedAttempts >= 3) {
         accountBlocked = true;
         return "your accont has been blocked!"
     }
