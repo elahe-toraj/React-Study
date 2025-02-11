@@ -6,18 +6,28 @@
 
 
 [
+
   { name: "ali", age: 10 },
+
   { name: "hossein", age: 45 },
+
   { name: "JAVAD", age: 12 },
+
   { name: "REZA", age: 20 },
+
   { name: "SAJJAD", age: 11 }
+
 ]
 خروجی:
 
 [
+
   { name: "hossein", age: 45 },
+
   { name: "JAVAD", age: 12 },
+
   { name: "REZA", age: 20 }
+
 ]
 جزئیات سوال:
 
