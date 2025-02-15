@@ -1,7 +1,7 @@
 interface propsType {
-    name: string;
+  name: string;
 }
 
-function TitleElement(props; propsType) {
-    return <h1>hello {props.name}</h1>
+function TitleElement(props: propsType) {
+  return <h1>Hello {props.name}</h1>;
 }
