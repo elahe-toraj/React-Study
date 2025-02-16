@@ -1,7 +1,7 @@
-export default function Title() {
-    return (
-      <h1 className="text-red" onClick={() => alert("welcome to quera!")}>
-        React College
-      </h1>
-    );
-  }
+export default function title() {
+  return (
+    <h1 className="text-red" onClick={() => alert("welcom to my page!")}>
+      React College
+    </h1>
+  )
+}

@@ -1,13 +1,11 @@
+import Title from "./title";
 
-import Title form "./title.tsx"
 function App() {
-
   return (
     <>
       <Title />
-      <p>welcom to my page</p>
+      <p>welcom to may page</p>
     </>
   )
 }
-
-export default App
+export default App;
